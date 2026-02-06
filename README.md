@@ -100,8 +100,8 @@ python main_script.py
 
 ```
 ### Projeyi Çalıştırma Terminal Komutları (Örnektir)
-(proje_goruntuleri/Terminal_Komutlari.png)
-### Not: *Proje; eğitim, test aşamaları, veri seti oluşturma ve örnek tahmin görüntüleri oluşturma işlemleri dahil tamamen terminal komutları ile python tabanlı yardımcı araçların paketleri kullanılarak terminal komutları ile çalıştırılmaktadır.*
+![Örnek Terminal Komutları](proje_goruntuleri/Terminal_Komutlari.png)
+### Not: Proje; eğitim, test aşamaları, veri seti oluşturma ve örnek tahmin görüntüleri oluşturma işlemleri dahil tamamen terminal komutları ile python tabanlı yardımcı araçların paketleri kullanılarak terminal komutları ile çalıştırılmaktadır.
 ---
 
 **Hazırlayan:** Yaman CEYLAN
