@@ -132,4 +132,4 @@ if __name__ == "__main__":
     create_early_fusion()
     create_intermediate_fusion()
     create_late_fusion()
-    print("\nKOMUTANIM, GÖRSELLER PROJE KLASÖRÜNÜZE BIRAKILDI!")
+    print("\nGÖRSELLER PROJE KLASÖRÜNE BIRAKILDI!")
